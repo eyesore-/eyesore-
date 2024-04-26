@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  *slicked back hair, white bathing suit, white couch*
+  <i>slicked back hair, white bathing suit, white couch</i>
 </p>
